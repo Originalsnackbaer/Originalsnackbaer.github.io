@@ -62,6 +62,6 @@ this .. means go one directory up
 
 ## images
 
-![this is the description for hovering cursor and search enginges](../img/7.jpg)
+![this is the description for hovering cursor and search enginges](../img/7.JPG)
 
 now we go back to github desktop, commit changes and sync
